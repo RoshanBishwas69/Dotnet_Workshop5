@@ -1,0 +1,15 @@
+E:\CS6400 Application Development\W5\Solution\Task 4\bin\Debug\net9.0\Task 4.exe
+E:\CS6400 Application Development\W5\Solution\Task 4\bin\Debug\net9.0\Task 4.deps.json
+E:\CS6400 Application Development\W5\Solution\Task 4\bin\Debug\net9.0\Task 4.runtimeconfig.json
+E:\CS6400 Application Development\W5\Solution\Task 4\bin\Debug\net9.0\Task 4.dll
+E:\CS6400 Application Development\W5\Solution\Task 4\bin\Debug\net9.0\Task 4.pdb
+E:\CS6400 Application Development\W5\Solution\Task 4\obj\Debug\net9.0\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS6400 Application Development\W5\Solution\Task 4\obj\Debug\net9.0\Task 4.AssemblyInfoInputs.cache
+E:\CS6400 Application Development\W5\Solution\Task 4\obj\Debug\net9.0\Task 4.AssemblyInfo.cs
+E:\CS6400 Application Development\W5\Solution\Task 4\obj\Debug\net9.0\Task 4.csproj.CoreCompileInputs.cache
+E:\CS6400 Application Development\W5\Solution\Task 4\obj\Debug\net9.0\Task 4.sourcelink.json
+E:\CS6400 Application Development\W5\Solution\Task 4\obj\Debug\net9.0\Task 4.dll
+E:\CS6400 Application Development\W5\Solution\Task 4\obj\Debug\net9.0\refint\Task 4.dll
+E:\CS6400 Application Development\W5\Solution\Task 4\obj\Debug\net9.0\Task 4.pdb
+E:\CS6400 Application Development\W5\Solution\Task 4\obj\Debug\net9.0\Task 4.genruntimeconfig.cache
+E:\CS6400 Application Development\W5\Solution\Task 4\obj\Debug\net9.0\ref\Task 4.dll
