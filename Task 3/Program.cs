@@ -16,7 +16,7 @@
         {
             for (int i = 1; i <= count; i++)
             {
-                Console.WriteLine(i + ". " + message);
+                Console.WriteLine(i + ". " + message):
             }
         }
     }
@@ -31,7 +31,7 @@
             p.Print("Repeat Message", 3);
 
             NepaliTeacher nepaliTeacher = new NepaliTeacher();
-            nepaliTeacher.Name = "Ram";
+            nepaliTeacher.Name = "Nexon";
             nepaliTeacher.Teaching();
             nepaliTeacher.SalaryInfo();
 
